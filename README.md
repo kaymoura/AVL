@@ -39,5 +39,5 @@ Para rodar este código, você precisa de um compilador de C instalado, como o G
 #### Compilando o código
 Clone o repositório para o seu ambiente local:
 
-  git clone https://github.com/seu-usuario/arquivo-arvore-binaria.git
+  git clone [https://github.com/kaymoura/AVL.git](https://github.com/kaymoura/AVL)
 
